@@ -7,7 +7,7 @@
 body,
 html {
     overflow-x: hidden;
-    background-color: rgb(253, 218, 136);
+    background-color: rgb(253, 241, 214);;
 }
 
 nav {
@@ -51,7 +51,7 @@ nav {
 .menu li a.logo {
     font-size: 25px;
     margin-right: 240px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .menu li a.contacts {
